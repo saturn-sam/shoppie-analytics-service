@@ -1,0 +1,8 @@
+flask
+gunicorn
+pyjwt
+flask-sqlalchemy
+flask-migrate
+flask-cors
+psycopg2-binary
+pika
